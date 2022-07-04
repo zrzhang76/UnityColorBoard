@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4ee2839d7ff35054fa3ce1c83d459abf, type: 3}
+    totalSpriteSurfaceArea: 92642
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a622381294f08694da18d512d29637b0, type: 3}
+  - {fileID: 21300000, guid: 6cbeaca844a5ae14b85ec0f884144eea, type: 3}
+  - {fileID: 21300000, guid: 45125c8d41d48f542b845eca3329ab76, type: 3}
+  - {fileID: 21300000, guid: e99d35ae6a4719e428e61a50b6e42fad, type: 3}
+  - {fileID: 21300000, guid: b0c35a8f42666c64b88671c08d568835, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - image_nine_dressup_menu_bg
+  - img_alphaSlider_bg
+  - image_hue_knob_label
+  - image_hue_mark_label
+  - Bikaqiu
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas
+  m_IsVariant: 0
